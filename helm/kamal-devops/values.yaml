@@ -8,7 +8,7 @@ image:
   repository: kkk2003/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "16140916479"
+  tag: "16161182248"
 ingress:
   enabled: false
   className: ""
